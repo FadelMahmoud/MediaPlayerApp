@@ -1,0 +1,16 @@
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\netstandard2.0\MediaPlayer.deps.json
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\netstandard2.0\MediaPlayer.dll
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\netstandard2.0\ref\MediaPlayer.dll
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\bin\Debug\netstandard2.0\MediaPlayer.pdb
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.csprojAssemblyReference.cache
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.AssemblyInfoInputs.cache
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.AssemblyInfo.cs
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.dll
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\ref\MediaPlayer.dll
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\MediaPlayer.pdb
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\view\LandingPage.xaml.g.cs
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer\obj\Debug\netstandard2.0\view\PlayerPage.xaml.g.cs

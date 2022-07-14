@@ -1,0 +1,3 @@
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer.Android\obj\Debug\90\build.props
+D:\Visual studio projects\Xamarin.Forms\projects\MediaPlayer\MediaPlayer\MediaPlayer.Android\obj\Debug\90\adb.props
