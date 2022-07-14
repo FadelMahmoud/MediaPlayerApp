@@ -1,5 +1,5 @@
 # MediaPlayerApp
-A cross-platform Music Player Mobile App developed using Xamarin on February 2021. <br />
+A cross-platform Music Player Mobile App developed using Xamarin in February 2021. <br />
 
 ## **Some screenshots from the app:** <br />
 
